@@ -4,7 +4,7 @@ body {
 
 /* Hero Section */
 
-#Hero-Section {
+.Hero-Section {
   background-image: url(../img/brevet400.jpg);
   background-repeat: no-repeat;
   background-size: cover;
