@@ -36,3 +36,11 @@ body {
     width: 100px;
   }
 }
+
+.logo {
+  max-width: 20% !important;
+}
+
+.colornavbar {
+  background-color: black !important;
+}
